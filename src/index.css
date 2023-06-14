@@ -1,0 +1,11 @@
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+.card{
+  box-shadow: 0 4px 24px 0 rgba(34, 41, 47, 0.1) !important;
+  background-color: white !important;
+  border: 1px solid white !important;
+}
